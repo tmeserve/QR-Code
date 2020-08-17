@@ -10,6 +10,7 @@ https://github.com/digitaltembo/python-qrcode
 
 I made this small repo because the documentation wasn't exactly fully correct character for character on how to use the new additions
 
+I also show how to use color masks
 
 A good alternative to use in a website is:
 https://www.qrcode-monkey.com
